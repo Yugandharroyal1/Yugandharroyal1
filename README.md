@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm yugandhar ande chinna kondaiah gari</h1>
+<h1 align="center">Hi 👋, I'm  
+  YUGANDHAR ANDE CHINNA KONDAIAH GARI</h1>
 <h3 align="center">"I am currently pursuing a Master’s in Computer Science at the University of South Florida. I have a strong passion for data science, machine learning, data engineering, and data analysis. With a solid understanding of algorithms and proficiency in programming languages such as Python, Java, and SQL, I also have hands-on experience with data science tools, including various Python libraries and machine learning frameworks</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yugandharroyal1&label=Profile%20views&color=0e75b6&style=flat" alt="yugandharroyal1" /> </p>

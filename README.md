@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm yugandhar ande chinna kondaiah gari</h1>
-<h3 align="center">i am currently pursuing Masters in computer science and engineering at University of south florida</h3>
+<h3 align="center">"I am currently pursuing a Master’s in Computer Science at the University of South Florida. I have a strong passion for data science, machine learning, data engineering, and data analysis. With a solid understanding of algorithms and proficiency in programming languages such as Python, Java, and SQL, I also have hands-on experience with data science tools, including various Python libraries and machine learning frameworks</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yugandharroyal1&label=Profile%20views&color=0e75b6&style=flat" alt="yugandharroyal1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yugandharroyal1" alt="yugandharroyal1" /></a> </p>
-
-- 📝 I regularly write articles on [https://github.com/Yugandharroyal1](https://github.com/Yugandharroyal1)
 
 - 📫 How to reach me **yugandharroyal27@gmai1.com**
 
